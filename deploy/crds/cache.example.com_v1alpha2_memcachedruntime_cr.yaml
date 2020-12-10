@@ -1,0 +1,7 @@
+apiVersion: cache.example.com/v1alpha2
+kind: MemcachedRuntime
+metadata:
+  name: example-memcachedruntime
+spec:
+  # Add fields here
+  size: 3
